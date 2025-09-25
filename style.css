@@ -486,7 +486,7 @@ section {
 #couple {
   background: url("texture4.png") no-repeat center center/cover;
   background-color: rgba(255,255,255,0.5); /* putih transparan di atas bg */
-  min-height: 150vh;
+  min-height: 210vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -698,7 +698,7 @@ section {
   text-align: center;
   overflow: hidden;
   isolation: isolate;
-  min-height: 240vh; /* ⬅️ 2 kali tinggi layar */
+  min-height: 280vh; /* ⬅️ 2 kali tinggi layar */
 }
 
 #hadiah-ucapan::before {
