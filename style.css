@@ -486,7 +486,7 @@ section {
 #couple {
   background: url("texture4.png") no-repeat center center/cover;
   background-color: rgba(255,255,255,0.5); /* putih transparan di atas bg */
-  min-height: 210vh;
+  min-height: 170vh;
   display: flex;
   align-items: center;
   justify-content: center;
